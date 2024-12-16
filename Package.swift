@@ -17,7 +17,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "NMapsGeometry",
-            url: "https://repository.map.naver.com/archive/pod/NMapsGeometry/1.0.2/NMapsGeometry.zip",
+            url: "https://github.com/winkitee/SPM-NMapsGeometry/releases/download/1.0.2/NMapsGeometry.zip",
             checksum: "3b213dee5ebd5fa2bfbc3feb0258f8fec6d70abd6c71c5fa33324af9c1b8b2e2")
     ]
 )
